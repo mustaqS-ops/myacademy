@@ -1,38 +1,38 @@
 h1 {
-    color: green;
-    font-family: sans-serif;
+  color: green;
+  font-family: sans-serif;
 }
 
 h2 {
-    color: rgb(0, 34, 128);
+  color: rgb(0, 34, 128);
 }
 
 h3 {
-    color: rgb(128, 113, 0);
+  color: rgb(128, 113, 0);
 }
 
 h4 {
-    color: #0e91a2;
+  color: #0e91a2;
 }
 
 h5 {
-    color: rgb(162, 135, 29);
+  color: rgb(162, 135, 29);
 }
 
 h6 {
-    color: #c9136e;
+  color: #c9136e;
 }
 
 p {
-    color: rgb(193, 100, 18);
-    font-family: fantasy;
+  color: rgb(193, 100, 18);
+  font-family: fantasy;
 }
 
 ul {
-    list-style-type: circle;
-    list-style-image: url('images/pointer-icon.png');
+  list-style-type: circle;
+  list-style-image: url("images/pointer-icon.png");
 }
 
 ol {
-    list-style-type: upper-roman;
+  list-style-type: upper-roman;
 }
